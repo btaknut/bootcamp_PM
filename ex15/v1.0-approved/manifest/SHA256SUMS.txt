@@ -1,0 +1,8 @@
+a9a29a6dcd6eaf2023e5bcbbf234a6c1b0b5649787c8ba0f74d452c5990986fe  ex15/v1.0-approved/README.md
+62ef7a9d3e6aab3c59577b867ba6206e0fdec671d993c3a2f85e0132e9f9c494  ex15/v1.0-approved/docs/01_scope-and-gate.md
+0343f806168ce58ccb56db3029c8b370be7991e08ad8497dae547462be5ab15b  ex15/v1.0-approved/docs/02_storage-policy.md
+ac16ac3abfb7525584ed5ec1061b8645cbdf6b24349b3c2d0482d6e099193cfc  ex15/v1.0-approved/docs/03_notion-implementation.md
+d7a738ce4ccfbe51782d77d83b98b4d43f2acabd9d60cda9fe6a8cc2f437a1d3  ex15/v1.0-approved/docs/04_validation-matrix.md
+b752699667e6f9c3753376ed99ff0fe65a79df17ca4974cf7f9585dfec63d9ab  ex15/v1.0-approved/manifest/approved-files.csv
+a21e750d247e0a3094d0c1628b8d227b0cd829744ccd95958a1d52d13d6977d9  ex15/v1.0-approved/reports/ex15-validation.md
+973805c888fb74cae04a57cf86a22536828f01acf92022143e20454f4cf9fa50  ex15/v1.0-approved/security/original-storage-check.md

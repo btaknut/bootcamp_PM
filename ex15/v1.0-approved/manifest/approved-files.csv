@@ -1,0 +1,10 @@
+path,classification,kind,approved,original
+ex15/v1.0-approved/README.md,L1,EX-15 control document,true,false
+ex15/v1.0-approved/docs/01_scope-and-gate.md,L1,EX-15 design document,true,false
+ex15/v1.0-approved/docs/02_storage-policy.md,L1,EX-15 design document,true,false
+ex15/v1.0-approved/docs/03_notion-implementation.md,L1,EX-15 design document,true,false
+ex15/v1.0-approved/docs/04_validation-matrix.md,L1,EX-15 design document,true,false
+ex15/v1.0-approved/security/original-storage-check.md,L1,EX-15 security document,true,false
+ex15/v1.0-approved/reports/ex15-validation.md,L1,EX-15 validation document,true,false
+ex15/v1.0-approved/manifest/approved-files.csv,L1,EX-15 allowlist manifest,true,false
+ex15/v1.0-approved/manifest/SHA256SUMS.txt,L1,EX-15 integrity manifest,true,false
